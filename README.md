@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Blue?style=for-the-badge)
-![E-Commerce](https://img.shields.io/badge/E-Commerce_Data-Orange?style=for-the-badge)
+![E-Commerce](https://img.shields.io/badge/E_Commerce_Data-Orange?style=for-the-badge)
 
 Interactive Power BI dashboard analyzing e-commerce sales data with geographic insights and business performance metrics.
 
